@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\denis.biskup\\Documents\\GitHub\\25-Wzorce-Projektowe\\Zadania_4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527E4E43-95C0-4FCE-8947-15007FDFAF06}|Zadania_4-5\\Zadania_4-5.csproj|e:\\users\\denis.biskup\\documents\\github\\25-wzorce-projektowe\\zadania_4-5\\zadania_4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527E4E43-95C0-4FCE-8947-15007FDFAF06}|Zadania_4-5\\Zadania_4-5.csproj|solutionrelative:zadania_4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\denis.biskup\\Documents\\GitHub\\25-Wzorce-Projektowe\\Zadania_4-5\\Zadania_4-5\\Program.cs",
+              "RelativeDocumentMoniker": "Zadania_4-5\\Program.cs",
+              "ToolTip": "E:\\Users\\denis.biskup\\Documents\\GitHub\\25-Wzorce-Projektowe\\Zadania_4-5\\Zadania_4-5\\Program.cs",
+              "RelativeToolTip": "Zadania_4-5\\Program.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwv7AAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:10:08.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

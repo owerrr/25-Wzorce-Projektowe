@@ -1,0 +1,15 @@
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\bin\Debug\net9.0\Zadania_4-5.exe
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\bin\Debug\net9.0\Zadania_4-5.deps.json
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\bin\Debug\net9.0\Zadania_4-5.runtimeconfig.json
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\bin\Debug\net9.0\Zadania_4-5.dll
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\bin\Debug\net9.0\Zadania_4-5.pdb
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.AssemblyInfoInputs.cache
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.AssemblyInfo.cs
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.csproj.CoreCompileInputs.cache
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.sourcelink.json
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.dll
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\refint\Zadania_4-5.dll
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.pdb
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\Zadania_4-5.genruntimeconfig.cache
+E:\Users\denis.biskup\Documents\GitHub\25-Wzorce-Projektowe\Zadania_4-5\Zadania_4-5\obj\Debug\net9.0\ref\Zadania_4-5.dll
